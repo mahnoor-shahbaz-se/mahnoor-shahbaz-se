@@ -21,8 +21,8 @@ I'm a Software Engineering student from Lahore, Pakistan, building toward a care
 I focus on writing clean, practical code and building real-world projects that solve actual problems.
 
 - 🔭 Currently building **frontend fundamentals (HTML, CSS, JavaScript)** on top of a Java/OOP foundation
-- 🌱 Following a structured, multi-year roadmap: **Frontend → Java/Spring Boot → Databases → Cloud → AI**
-- 🎯 Goal: Land an international software engineering role (Dubai, Germany, Canada, Netherlands, Sweden, Ireland)
+- 🌱 Following a structured, multi-year roadmap: **Frontend → Backend → Databases → Cloud → AI**
+- 🎯 Goal: Land an international software engineering role 
 - 💡 I believe in **learning by building** — every project teaches something new
 
 ---
@@ -35,15 +35,13 @@ I focus on writing clean, practical code and building real-world projects that s
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 **📍 Learning Next (Roadmap, by priority tier)**
 
 | Tier | Technologies |
 |---|---|
 | 🥇 Primary | HTML, CSS, JavaScript, React, Next.js, TypeScript, Tailwind CSS |
-| 🥈 Tier One | MySQL + PostgreSQL, AWS, Python *(Java already underway — see above)* |
+| 🥈 Tier One | Java, MySQL + PostgreSQL, AWS, Python |
 | 🥉 Secondary Tier | Angular, Node.js, Express, MongoDB + Redis, Applied AI |
 | 🏅 Third Tier | .NET, Azure |
 
