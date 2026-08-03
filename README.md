@@ -58,7 +58,7 @@ I focus on writing clean, practical code and building real-world projects that s
 | [🎓 Student Management System](https://github.com/mahnoor-shahbaz-se/student-management-system-java) | Manages student records, calculates grades/GPA, and applies scholarship discounts on fees | Java |
 | [💱 Currency Converter](https://github.com/mahnoor-shahbaz-se/currency-converter-java) | BigDecimal-based converter supporting 10 major currencies with a menu-driven interface | Java |
 
-More small daily practice reps live in my [practice-projects](https://github.com/mahnoor-shahbaz-se/practice-projects) repo.
+More small daily practice reps live in my practice projects repos.
 
 ---
 
